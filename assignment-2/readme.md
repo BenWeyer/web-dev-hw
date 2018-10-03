@@ -21,4 +21,4 @@ within the GitHub website without the convenience of publishing from the app.
 Luckily for Part 2 I discovered how to import local files and folders which
 has made the process considerably easier.
 
-![Screenshot](https://github.com/BenWeyer/web-dev-hw/blob/master/assignment-2/images/assignment-2-screenshot.png)
+![Screenshot](./images/screenshot.png)
