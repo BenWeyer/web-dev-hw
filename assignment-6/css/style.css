@@ -1,0 +1,27 @@
+#title {
+    text-align: center;
+    font-size: 300;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    background-color: darkorange;
+    color: black;
+}
+#ChapterOne {
+    text-align: left;
+    line-height: inherit;
+    font-size: 100;
+    font-weight: lighter;
+    font-family: 'Noto Serif TC', serif;
+    background-color: midnightblue;
+    color: white;
+}
+
+#ChapterOne p::first-line {
+  font-weight: bold;
+  font-size: 50
+}
+#button {
+    color: white;
+    text-align: center;
+    font-size: 200;
+}
