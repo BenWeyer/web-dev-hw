@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans|Unlock');
+
+html {
+  background-image: url(../images/fitz.jpg);
+  background-size: cover;
+}
+
+#name {
+  text-align: center;
+  font-family: Unlock;
+  font-size: 50px;
+}
+
+#about {
+  text-align: inherit;
+  font-size: 25px;
+  font-family: Unlock;
+  padding: 2em;
+  margin: 3em;
+  z-index: 2;
+}
+
+#photo1 {
+  float: right;
+  border-width: thick;
+  border-style: outset;
+  border-color: black;
+}
+
+#links {
+  position: relative;
+  text-align: left;
+  font-family: Noto+Sans;
+  font-size: 25px;
+  color: black;
+  font-weight: bold;
+}
+
+#links a:hover {
+  border: 3px
+}
+
+.container1 {
+  width: 300px;
+  height: 200px;
+}
